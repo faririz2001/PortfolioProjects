@@ -1,4 +1,7 @@
+/*
+Covid 19 Data Exploration 
 
+*/
 
 --select *
 --from PortfolioProject1..CovidDeaths$
